@@ -73,5 +73,3 @@ available at [http://contributor-covenant.org/version/1/4][version] and
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
 
-
-Taken from [Jay Maynard](https://medium.com/@jmaynard/a-contribution-policy-for-open-source-that-works-bfc4600c9d83)
